@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
 <body>
-<p>hola:</p>
-<bdo dir="rtl">Me llamo Steven</bdo>
+<p>Yo</p>
+<address>
+nombre: Alan Steven<br>
+Mis datos:<br>
+apellidos:Martinez Fernandez<br>
+naci: 2008<br>
+Ciudad Juarez
+</address>
 </body>
 </html>
